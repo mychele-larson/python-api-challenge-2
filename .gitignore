@@ -1,5 +1,5 @@
 # My files for api
-config.py
+api_key.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -76,9 +76,6 @@ docs/_build/
 
 # PyBuilder
 target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # IPython
 profile_default/

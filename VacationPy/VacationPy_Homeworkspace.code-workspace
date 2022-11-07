@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../WeatherPy"
+		},
+		{
+			"path": "../WeatherPy/data"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay"
+	}
+}
